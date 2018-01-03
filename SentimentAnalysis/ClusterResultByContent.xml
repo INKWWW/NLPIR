@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<LJCluster-Result>
+
+<clusnum>2</clusnum>
+
+<clus id="0">
+	<feature>军委四 军委 人民军 总书記 </feature>
+	<docs num="7">
+		<doc>文章0</doc>
+		<doc>文章1</doc>
+		<doc>文章2</doc>
+		<doc>文章3</doc>
+		<doc>文章4</doc>
+		<doc>文章5</doc>
+		<doc>文章6</doc>
+	</docs>
+</clus>
+
+<clus id="1">
+	<feature>平总书記 军委 人民军 总书記 </feature>
+	<docs num="7">
+		<doc>文章0</doc>
+		<doc>文章1</doc>
+		<doc>文章2</doc>
+		<doc>文章3</doc>
+		<doc>文章4</doc>
+		<doc>文章5</doc>
+		<doc>文章6</doc>
+	</docs>
+</clus>
+
+</LJCluster-Result>

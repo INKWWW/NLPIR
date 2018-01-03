@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<LJCluster-Result>
+
+<clusnum>2</clusnum>
+
+<clus id="0">
+	<feature>王莽謙恭 军委 恐惧 流言 謙恭 人民军 下士 真伪 总书記 王莽 </feature>
+	<docs num="3">
+		<doc>text1.txt</doc>
+		<doc>text2.txt</doc>
+		<doc>text3.txt</doc>
+	</docs>
+</clus>
+
+<clus id="1">
+	<feature>王莽謙恭下士 军委 恐惧 流言 謙恭 人民军 下士 真伪 总书記 王莽 </feature>
+	<docs num="3">
+		<doc>text1.txt</doc>
+		<doc>text2.txt</doc>
+		<doc>text3.txt</doc>
+	</docs>
+</clus>
+
+</LJCluster-Result>

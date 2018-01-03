@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<LJCluster-Result>
+
+<clusnum>1</clusnum>
+
+<clus id="0">
+	<feature>陈先达 馬克思主义 中共中央政治局 中国文联 文化界知名人士 中国作协 芭蕾舞 老一輩 名誉 </feature>
+	<docs num="7">
+		<doc>文章0</doc>
+		<doc>文章1</doc>
+		<doc>文章2</doc>
+		<doc>文章3</doc>
+		<doc>文章4</doc>
+		<doc>文章5</doc>
+		<doc>文章6</doc>
+	</docs>
+</clus>
+
+</LJCluster-Result>

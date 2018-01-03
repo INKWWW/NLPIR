@@ -1,0 +1,1255 @@
+No:1	word=末##末	pos=	freq=7	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(4,560,562,565,569,571,)
+LV()
+RV()
+No:2	word=新华社北京	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.92
+Inverted List(0,)
+LV(末##末(1),)
+RV(2月(1),)
+No:3	word=2月	pos=t	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=0.63
+Inverted List(1,)
+LV(新华社北京(1),)
+RV(10日(1),)
+No:4	word=10日	pos=t	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=5.28
+Inverted List(2,)
+LV(2月(1),)
+RV(电(1),)
+No:5	word=电	pos=n	freq=1	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(3,)
+LV()
+RV()
+No:6	word=（	pos=wkz	freq=2	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(5,564,)
+LV()
+RV()
+No:7	word=记者	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.61
+Inverted List(6,)
+LV(（(1),)
+RV(隋笑飞(1),)
+No:8	word=隋笑飞	pos=nr	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.65
+Inverted List(7,)
+LV(记者(1),)
+RV(）(1),)
+No:9	word=）	pos=wky	freq=2	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(8,573,)
+LV()
+RV()
+No:10	word=中共中央政治局	pos=nt	freq=2	LV=2	RV=2	is_stopword=0	unit_count=1	weight=3.51
+Inverted List(9,525,)
+LV(）(1),　(1),)
+RV(常委(1),委员(1),)
+No:11	word=常委	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(10,)
+LV(中共中央政治局(1),)
+RV(、(1),)
+No:12	word=、	pos=wn	freq=27	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(11,51,92,106,129,146,171,189,214,218,229,262,310,344,432,454,466,480,491,500,508,527,536,538,540,545,547,)
+LV()
+RV()
+No:13	word=中央书记处	pos=nt	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=0.31
+Inverted List(12,)
+LV(、(1),)
+RV(书记(1),)
+No:14	word=书记	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(13,)
+LV(中央书记处(1),)
+RV(刘云山(1),)
+No:15	word=刘云山	pos=nr	freq=7	LV=4	RV=7	is_stopword=0	unit_count=1	weight=21.38
+Inverted List(14,44,113,154,196,240,339,)
+LV(书记(1),，(4),。(1),　(1),)
+RV(2月8日(1),首先(1),悉心(1),赞赏(1),与(1),赞扬(1),指出(1),)
+No:16	word=2月8日	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.92
+Inverted List(15,)
+LV(刘云山(1),)
+RV(和(1),)
+No:17	word=和	pos=cc	freq=9	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(16,22,67,202,277,303,351,385,493,)
+LV()
+RV()
+No:18	word=9日	pos=t	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=0.51
+Inverted List(17,)
+LV(和(1),)
+RV(，(1),)
+No:19	word=，	pos=wd	freq=32	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(18,27,33,60,70,84,112,121,153,163,195,206,239,253,284,300,320,329,341,346,356,378,406,410,414,419,441,449,461,474,504,513,)
+LV()
+RV()
+No:20	word=代表	pos=n	freq=2	LV=2	RV=2	is_stopword=0	unit_count=1	weight=3.51
+Inverted List(19,174,)
+LV(，(1),对(1),)
+RV(习近平(1),国家(1),)
+No:21	word=习近平	pos=nr	freq=3	LV=3	RV=1	is_stopword=0	unit_count=1	weight=3.72
+Inverted List(20,275,395,)
+LV(代表(1),对(1),贯彻(1),)
+RV(总书记(3),)
+No:22	word=总书记	pos=n	freq=3	LV=1	RV=2	is_stopword=0	unit_count=1	weight=2.11
+Inverted List(21,276,396,)
+LV(习近平(3),)
+RV(和(2),在(1),)
+No:23	word=党中央	pos=nt	freq=2	LV=1	RV=2	is_stopword=0	unit_count=1	weight=0.98
+Inverted List(23,278,)
+LV(和(2),)
+RV(看望(1),的(1),)
+No:24	word=看望	pos=v	freq=5	LV=4	RV=5	is_stopword=0	unit_count=1	weight=6.35
+Inverted List(24,140,184,533,554,)
+LV(党中央(1),在(2),陪同(1),参加(1),)
+RV(文化界(1),。(1),中国(1),原(1),活动(1),)
+No:25	word=文化界	pos=n	freq=2	LV=2	RV=1	is_stopword=0	unit_count=1	weight=2.15
+Inverted List(25,272,)
+LV(看望(1),　(1),)
+RV(知名人士(2),)
+No:26	word=知名人士	pos=n	freq=2	LV=1	RV=2	is_stopword=0	unit_count=1	weight=2.15
+Inverted List(26,273,)
+LV(文化界(2),)
+RV(，(1),对(1),)
+No:27	word=向	pos=p	freq=2	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(28,34,)
+LV()
+RV()
+No:28	word=他们	pos=rr	freq=1	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(29,)
+LV()
+RV()
+No:29	word=致以	pos=v	freq=2	LV=2	RV=2	is_stopword=0	unit_count=1	weight=3.51
+Inverted List(30,38,)
+LV(他们(1),工作者(1),)
+RV(诚挚(1),新春(1),)
+No:30	word=诚挚	pos=a	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=0.80
+Inverted List(31,)
+LV(致以(1),)
+RV(问候(1),)
+No:31	word=问候	pos=vn	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(32,)
+LV(诚挚(1),)
+RV(，(1),)
+No:32	word=广大	pos=b	freq=2	LV=2	RV=1	is_stopword=0	unit_count=1	weight=0.65
+Inverted List(35,389,)
+LV(向(1),希望(1),)
+RV(文化(2),)
+No:33	word=文化	pos=n	freq=19	LV=16	RV=14	is_stopword=0	unit_count=1	weight=16.09
+Inverted List(36,135,309,313,323,330,347,365,381,390,408,412,426,444,477,483,498,502,515,)
+LV(，(2),广大(2),的(1),为(1),老一辈(1),传统(2),国家(1),重视(1),认为(1),需要(1),当代(1),增强(1),坚守(1),推动(1),社会主义(1),关心(1),)
+RV(、(1),工作者(6),的(1),建设(1),贡献(1),发展(1),人才(1),繁荣(1),软(1),是(1),自信(1),追求(1),作品(1),强国(1),)
+No:34	word=工作者	pos=n	freq=6	LV=1	RV=6	is_stopword=0	unit_count=1	weight=3.03
+Inverted List(37,324,382,391,445,516,)
+LV(文化(6),)
+RV(致以(1),的(1),赶上(1),重要(1),深入(1),施展(1),)
+No:35	word=新春	pos=t	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=0.24
+Inverted List(39,)
+LV(致以(1),)
+RV(祝福(1),)
+No:36	word=祝福	pos=vn	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(40,)
+LV(新春(1),)
+RV(。(1),)
+No:37	word=。	pos=wj	freq=14	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(41,101,138,182,223,269,338,369,387,436,488,522,534,556,)
+LV()
+RV()
+No:38	word=　	pos=	freq=8	LV=2	RV=5	is_stopword=0	unit_count=1	weight=1.63
+Inverted List(42,43,270,271,523,524,557,558,)
+LV(。(4),　(4),)
+RV(中共中央政治局(1),刘云山(1),文化界(1),　(4),《(1),)
+No:39	word=首先	pos=d	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=0.64
+Inverted List(45,)
+LV(刘云山(1),)
+RV(来到(1),)
+No:40	word=来到	pos=v	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(46,)
+LV(首先(1),)
+RV(中国(1),)
+No:41	word=中国	pos=ns	freq=6	LV=6	RV=5	is_stopword=0	unit_count=1	weight=8.24
+Inverted List(47,141,225,362,430,548,)
+LV(、(1),看望(1),来到(1),的(1),在(1),好(1),)
+RV(人民(1),舞(1),作协(2),梦(1),故事(1),)
+No:42	word=人民	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.61
+Inverted List(48,)
+LV(中国(1),)
+RV(大学(1),)
+No:43	word=大学	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(49,)
+LV(人民(1),)
+RV(教授(1),)
+No:44	word=教授	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(50,)
+LV(大学(1),)
+RV(、(1),)
+No:45	word=着	pos=vi	freq=5	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(52,107,147,190,230,)
+LV()
+RV()
+No:46	word=名	pos=q	freq=5	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(53,108,148,191,231,)
+LV()
+RV()
+No:47	word=马克思主义	pos=n	freq=2	LV=2	RV=2	is_stopword=0	unit_count=1	weight=3.51
+Inverted List(54,89,)
+LV(名(1),深化(1),)
+RV(哲学(1),理论(1),)
+No:48	word=哲学	pos=n	freq=2	LV=2	RV=2	is_stopword=0	unit_count=1	weight=3.51
+Inverted List(55,94,)
+LV(马克思主义(1),加强(1),)
+RV(专家(1),社会科学(1),)
+No:49	word=专家	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(56,)
+LV(哲学(1),)
+RV(陈(1),)
+No:50	word=陈	pos=nr1	freq=3	LV=3	RV=1	is_stopword=0	unit_count=1	weight=0.83
+Inverted List(57,63,85,)
+LV(，(1),专家(1),询问(1),)
+RV(先达(3),)
+No:51	word=先达	pos=nz	freq=3	LV=1	RV=3	is_stopword=0	unit_count=1	weight=2.48
+Inverted List(58,64,86,)
+LV(陈(3),)
+RV(家中(1),的(1),就(1),)
+No:52	word=家中	pos=s	freq=3	LV=3	RV=1	is_stopword=0	unit_count=1	weight=0.74
+Inverted List(59,111,238,)
+LV(先达(1),沈鹏(1),夫(1),)
+RV(，(3),)
+No:53	word=关切	pos=v	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(61,)
+LV(，(1),)
+RV(询问(1),)
+No:54	word=询问	pos=v	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(62,)
+LV(关切(1),)
+RV(陈(1),)
+No:55	word=的	pos=ude1	freq=16	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(65,75,80,161,177,251,279,287,293,336,353,361,366,402,425,446,)
+LV()
+RV()
+No:56	word=生活	pos=vn	freq=3	LV=3	RV=3	is_stopword=0	unit_count=1	weight=4.96
+Inverted List(66,453,459,)
+LV(的(1),扎根(1),丰富(1),)
+RV(、(1),和(1),积淀(1),)
+No:57	word=工作	pos=vn	freq=3	LV=3	RV=3	is_stopword=0	unit_count=1	weight=4.97
+Inverted List(68,98,399,)
+LV(和(1),教学(1),文艺(1),)
+RV(情况(1),提出(1),座谈会(1),)
+No:58	word=情况	pos=n	freq=2	LV=2	RV=1	is_stopword=0	unit_count=1	weight=2.16
+Inverted List(69,120,)
+LV(工作(1),发展(1),)
+RV(，(2),)
+No:59	word=对	pos=p	freq=5	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(71,173,274,285,301,)
+LV()
+RV()
+No:60	word=他	pos=rr	freq=4	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(72,198,209,256,)
+LV()
+RV()
+No:61	word=为	pos=p	freq=6	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(73,130,157,246,475,514,)
+LV()
+RV()
+No:62	word=党	pos=n	freq=4	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(74,286,291,302,)
+LV()
+RV()
+No:63	word=思想	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(76,)
+LV(的(1),)
+RV(理论(1),)
+No:64	word=理论	pos=n	freq=2	LV=2	RV=2	is_stopword=0	unit_count=1	weight=3.51
+Inverted List(77,90,)
+LV(马克思主义(1),思想(1),)
+RV(建设(1),研究(1),)
+No:65	word=建设	pos=vn	freq=3	LV=3	RV=3	is_stopword=0	unit_count=1	weight=4.97
+Inverted List(78,481,499,)
+LV(、(1),文化(1),理论(1),)
+RV(、(1),作出(1),社会主义(1),)
+No:66	word=作出	pos=v	freq=2	LV=2	RV=2	is_stopword=0	unit_count=1	weight=3.51
+Inverted List(79,485,)
+LV(建设(1),强国(1),)
+RV(的(1),积极(1),)
+No:67	word=贡献	pos=n	freq=3	LV=3	RV=3	is_stopword=0	unit_count=1	weight=4.96
+Inverted List(81,136,487,)
+LV(文化(1),的(1),积极(1),)
+RV(。(1),给予(1),力量(1),)
+No:68	word=给予	pos=vx	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(82,)
+LV(贡献(1),)
+RV(肯定(1),)
+No:69	word=肯定	pos=vn	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(83,)
+LV(给予(1),)
+RV(，(1),)
+No:70	word=就	pos=d	freq=3	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(87,199,257,)
+LV()
+RV()
+No:71	word=深化	pos=v	freq=2	LV=2	RV=2	is_stopword=0	unit_count=1	weight=3.51
+Inverted List(88,463,)
+LV(就(1),在(1),)
+RV(马克思主义(1),艺术(1),)
+No:72	word=研究	pos=vn	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(91,)
+LV(理论(1),)
+RV(、(1),)
+No:73	word=加强	pos=v	freq=5	LV=4	RV=5	is_stopword=0	unit_count=1	weight=6.36
+Inverted List(93,166,215,258,505,)
+LV(、(2),，(1),就(1),建议(1),)
+RV(哲学(1),青年(1),扶持(1),版权(1),少数民族(1),)
+No:74	word=社会科学	pos=nl	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(95,)
+LV(哲学(1),)
+RV(教材(1),)
+No:75	word=教材	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(96,)
+LV(社会科学(1),)
+RV(教学(1),)
+No:76	word=教学	pos=vn	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(97,)
+LV(教材(1),)
+RV(工作(1),)
+No:77	word=提出	pos=v	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(99,)
+LV(工作(1),)
+RV(建议(1),)
+No:78	word=建议	pos=n	freq=3	LV=3	RV=2	is_stopword=0	unit_count=1	weight=3.79
+Inverted List(100,165,222,)
+LV(提出(1),白淑湘(1),等(1),)
+RV(。(2),加强(1),)
+No:79	word=在	pos=p	freq=7	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(102,139,183,224,397,451,462,)
+LV()
+RV()
+No:80	word=中国文联	pos=nt	freq=2	LV=2	RV=2	is_stopword=0	unit_count=1	weight=2.92
+Inverted List(103,546,)
+LV(、(1),在(1),)
+RV(、(1),荣誉(1),)
+No:81	word=荣誉	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(104,)
+LV(中国文联(1),)
+RV(委员(1),)
+No:82	word=委员	pos=n	freq=3	LV=3	RV=1	is_stopword=0	unit_count=1	weight=2.48
+Inverted List(105,228,526,)
+LV(中共中央政治局(1),荣誉(1),名誉(1),)
+RV(、(3),)
+No:83	word=书法家	pos=n	freq=2	LV=2	RV=2	is_stopword=0	unit_count=1	weight=3.51
+Inverted List(109,124,)
+LV(名(1),老一辈(1),)
+RV(沈鹏(1),继续(1),)
+No:84	word=沈鹏	pos=nr	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.26
+Inverted List(110,)
+LV(书法家(1),)
+RV(家中(1),)
+No:85	word=悉心	pos=d	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=0.64
+Inverted List(114,)
+LV(刘云山(1),)
+RV(了解(1),)
+No:86	word=了解	pos=v	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(115,)
+LV(悉心(1),)
+RV(书法(1),)
+No:87	word=书法	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(116,)
+LV(了解(1),)
+RV(艺术(1),)
+No:88	word=艺术	pos=n	freq=4	LV=4	RV=4	is_stopword=0	unit_count=1	weight=6.22
+Inverted List(117,168,178,464,)
+LV(的(1),深化(1),书法(1),青年(1),)
+RV(传承(1),人才(1),门类(1),实践(1),)
+No:89	word=传承	pos=vn	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(118,)
+LV(艺术(1),)
+RV(发展(1),)
+No:90	word=发展	pos=vn	freq=5	LV=5	RV=5	is_stopword=0	unit_count=1	weight=7.39
+Inverted List(119,249,331,352,479,)
+LV(和(1),文化(1),传承(1),文学(1),繁荣(1),)
+RV(、(1),的(1),情况(1),做出(1),展示(1),)
+No:91	word=希望	pos=v	freq=2	LV=2	RV=2	is_stopword=0	unit_count=1	weight=3.51
+Inverted List(122,388,)
+LV(，(1),。(1),)
+RV(广大(1),老一辈(1),)
+No:92	word=老一辈	pos=n	freq=2	LV=2	RV=2	is_stopword=0	unit_count=1	weight=3.51
+Inverted List(123,443,)
+LV(希望(1),学习(1),)
+RV(文化(1),书法家(1),)
+No:93	word=继续	pos=v	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(125,)
+LV(书法家(1),)
+RV(发挥(1),)
+No:94	word=发挥	pos=v	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(126,)
+LV(继续(1),)
+RV(传帮带(1),)
+No:95	word=传帮带	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(127,)
+LV(发挥(1),)
+RV(作用(1),)
+No:96	word=作用	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(128,)
+LV(传帮带(1),)
+RV(、(1),)
+No:97	word=弘扬	pos=v	freq=2	LV=2	RV=2	is_stopword=0	unit_count=1	weight=3.51
+Inverted List(131,306,)
+LV(为(1),重视(1),)
+RV(中华(1),优秀(1),)
+No:98	word=中华	pos=nz	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(132,)
+LV(弘扬(1),)
+RV(优秀(1),)
+No:99	word=优秀	pos=a	freq=2	LV=2	RV=1	is_stopword=0	unit_count=1	weight=1.08
+Inverted List(133,307,)
+LV(弘扬(1),中华(1),)
+RV(传统(2),)
+No:100	word=传统	pos=n	freq=3	LV=2	RV=2	is_stopword=0	unit_count=1	weight=3.42
+Inverted List(134,308,448,)
+LV(优秀(2),优良(1),)
+RV(，(1),文化(2),)
+No:101	word=力量	pos=n	freq=2	LV=2	RV=2	is_stopword=0	unit_count=1	weight=3.51
+Inverted List(137,355,)
+LV(贡献(1),重要(1),)
+RV(，(1),。(1),)
+No:102	word=舞	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=0.53
+Inverted List(142,)
+LV(中国(1),)
+RV(协(1),)
+No:103	word=协	pos=vg	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=0.53
+Inverted List(143,)
+LV(舞(1),)
+RV(名誉(1),)
+No:104	word=名誉	pos=n	freq=2	LV=2	RV=2	is_stopword=0	unit_count=1	weight=3.51
+Inverted List(144,227,)
+LV(协(1),作协(1),)
+RV(委员(1),主席(1),)
+No:105	word=主席	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(145,)
+LV(名誉(1),)
+RV(、(1),)
+No:106	word=芭蕾舞	pos=n	freq=2	LV=2	RV=2	is_stopword=0	unit_count=1	weight=3.51
+Inverted List(149,158,)
+LV(名(1),为(1),)
+RV(表演艺术家(1),民族化(1),)
+No:107	word=表演艺术家	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(150,)
+LV(芭蕾舞(1),)
+RV(白淑湘(1),)
+No:108	word=白淑湘	pos=nr	freq=2	LV=2	RV=2	is_stopword=0	unit_count=1	weight=9.65
+Inverted List(151,164,)
+LV(，(1),表演艺术家(1),)
+RV(建议(1),时(1),)
+No:109	word=时	pos=ng	freq=2	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(152,194,)
+LV()
+RV()
+No:110	word=赞赏	pos=v	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(155,)
+LV(刘云山(1),)
+RV(她(1),)
+No:111	word=她	pos=rr	freq=1	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(156,)
+LV()
+RV()
+No:112	word=民族化	pos=v	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(159,)
+LV(芭蕾舞(1),)
+RV(进行(1),)
+No:113	word=进行	pos=vx	freq=3	LV=3	RV=3	is_stopword=0	unit_count=1	weight=4.96
+Inverted List(160,204,267,)
+LV(民族化(1),前景(1),园地(1),)
+RV(的(1),交流(1),探讨(1),)
+No:114	word=探索	pos=vn	freq=2	LV=2	RV=2	is_stopword=0	unit_count=1	weight=3.51
+Inverted List(162,468,)
+LV(的(1),积极(1),)
+RV(，(1),创新(1),)
+No:115	word=青年	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(167,)
+LV(加强(1),)
+RV(艺术(1),)
+No:116	word=人才	pos=n	freq=2	LV=2	RV=2	is_stopword=0	unit_count=1	weight=3.51
+Inverted List(169,503,)
+LV(文化(1),艺术(1),)
+RV(，(1),培养(1),)
+No:117	word=培养	pos=v	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(170,)
+LV(人才(1),)
+RV(、(1),)
+No:118	word=加大	pos=v	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(172,)
+LV(、(1),)
+RV(对(1),)
+No:119	word=国家	pos=n	freq=2	LV=2	RV=2	is_stopword=0	unit_count=1	weight=3.52
+Inverted List(175,312,)
+LV(代表(1),提升(1),)
+RV(文化(1),水准(1),)
+No:120	word=水准	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(176,)
+LV(国家(1),)
+RV(的(1),)
+No:121	word=门类	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(179,)
+LV(艺术(1),)
+RV(扶持(1),)
+No:122	word=扶持	pos=vn	freq=2	LV=2	RV=2	is_stopword=0	unit_count=1	weight=3.51
+Inverted List(180,506,)
+LV(加强(1),门类(1),)
+RV(力度(1),引导(1),)
+No:123	word=力度	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(181,)
+LV(扶持(1),)
+RV(。(1),)
+No:124	word=原	pos=b	freq=1	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(185,)
+LV()
+RV()
+No:125	word=新闻	pos=n	freq=2	LV=2	RV=2	is_stopword=0	unit_count=1	weight=3.51
+Inverted List(186,541,)
+LV(、(1),原(1),)
+RV(出版署(1),出版(1),)
+No:126	word=出版署	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(187,)
+LV(新闻(1),)
+RV(署长(1),)
+No:127	word=署长	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(188,)
+LV(出版署(1),)
+RV(、(1),)
+No:128	word=出版家	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(192,)
+LV(名(1),)
+RV(宋木文(1),)
+No:129	word=宋木文	pos=nr	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.02
+Inverted List(193,)
+LV(出版家(1),)
+RV(时(1),)
+No:130	word=与	pos=p	freq=2	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(197,255,)
+LV()
+RV()
+No:131	word=出版业	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(200,)
+LV(就(1),)
+RV(现状(1),)
+No:132	word=现状	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(201,)
+LV(出版业(1),)
+RV(和(1),)
+No:133	word=前景	pos=n	freq=2	LV=2	RV=2	is_stopword=0	unit_count=1	weight=3.51
+Inverted List(203,337,)
+LV(和(1),的(1),)
+RV(。(1),进行(1),)
+No:134	word=交流	pos=vn	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(205,)
+LV(进行(1),)
+RV(，(1),)
+No:135	word=认真	pos=ad	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=0.80
+Inverted List(207,)
+LV(，(1),)
+RV(听取(1),)
+No:136	word=听取	pos=v	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(208,)
+LV(认真(1),)
+RV(他(1),)
+No:137	word=关于	pos=p	freq=1	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(210,)
+LV()
+RV()
+No:138	word=提高	pos=v	freq=2	LV=2	RV=2	is_stopword=0	unit_count=1	weight=3.51
+Inverted List(211,471,)
+LV(关于(1),中(1),)
+RV(出版(1),文艺(1),)
+No:139	word=出版	pos=v	freq=2	LV=2	RV=2	is_stopword=0	unit_count=1	weight=3.51
+Inverted List(212,542,)
+LV(新闻(1),提高(1),)
+RV(质量(1),广电(1),)
+No:140	word=质量	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(213,)
+LV(出版(1),)
+RV(、(1),)
+No:141	word=版权	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(216,)
+LV(加强(1),)
+RV(保护(1),)
+No:142	word=保护	pos=vn	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(217,)
+LV(版权(1),)
+RV(、(1),)
+No:143	word=重视	pos=v	freq=3	LV=3	RV=3	is_stopword=0	unit_count=1	weight=4.96
+Inverted List(219,305,497,)
+LV(、(1),政府(1),要(1),)
+RV(文化(1),弘扬(1),社会效益(1),)
+No:144	word=社会效益	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(220,)
+LV(重视(1),)
+RV(等(1),)
+No:145	word=等	pos=udeng	freq=2	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(221,316,)
+LV()
+RV()
+No:146	word=作协	pos=n	freq=2	LV=1	RV=2	is_stopword=0	unit_count=1	weight=2.15
+Inverted List(226,549,)
+LV(中国(2),)
+RV(名誉(1),有关(1),)
+No:147	word=少数民族	pos=n	freq=2	LV=2	RV=2	is_stopword=0	unit_count=1	weight=3.51
+Inverted List(232,259,)
+LV(名(1),加强(1),)
+RV(作家(1),文艺(1),)
+No:148	word=作家	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(233,)
+LV(少数民族(1),)
+RV(玛(1),)
+No:149	word=玛	pos=nr1	freq=2	LV=2	RV=1	is_stopword=0	unit_count=1	weight=0.72
+Inverted List(234,242,)
+LV(作家(1),赞扬(1),)
+RV(拉(2),)
+No:150	word=拉	pos=v	freq=2	LV=1	RV=1	is_stopword=0	unit_count=1	weight=0.53
+Inverted List(235,243,)
+LV(玛(2),)
+RV(沁(2),)
+No:151	word=沁	pos=v	freq=2	LV=1	RV=1	is_stopword=0	unit_count=1	weight=0.53
+Inverted List(236,244,)
+LV(拉(2),)
+RV(夫(2),)
+No:152	word=夫	pos=ng	freq=2	LV=1	RV=2	is_stopword=0	unit_count=1	weight=0.72
+Inverted List(237,245,)
+LV(沁(2),)
+RV(家中(1),为(1),)
+No:153	word=赞扬	pos=v	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(241,)
+LV(刘云山(1),)
+RV(玛(1),)
+No:154	word=民族	pos=n	freq=2	LV=2	RV=2	is_stopword=0	unit_count=1	weight=3.51
+Inverted List(247,349,)
+LV(为(1),是(1),)
+RV(文学(1),生存(1),)
+No:155	word=文学	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(248,)
+LV(民族(1),)
+RV(发展(1),)
+No:156	word=做出	pos=v	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(250,)
+LV(发展(1),)
+RV(的(1),)
+No:157	word=成绩	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(252,)
+LV(的(1),)
+RV(，(1),)
+No:158	word=并	pos=cc	freq=1	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(254,)
+LV()
+RV()
+No:159	word=文艺	pos=n	freq=4	LV=4	RV=4	is_stopword=0	unit_count=1	weight=6.22
+Inverted List(260,265,398,472,)
+LV(在(1),提高(1),少数民族(1),中华民族(1),)
+RV(工作(1),创作(1),园地(1),表现力(1),)
+No:160	word=创作	pos=vn	freq=2	LV=2	RV=2	is_stopword=0	unit_count=1	weight=3.51
+Inverted List(261,417,)
+LV(文艺(1),正确(1),)
+RV(、(1),导向(1),)
+No:161	word=繁荣	pos=a	freq=3	LV=3	RV=3	is_stopword=0	unit_count=1	weight=2.48
+Inverted List(263,367,478,)
+LV(、(1),文化(1),的(1),)
+RV(发展(1),中华民族(1),兴盛(1),)
+No:162	word=中华民族	pos=n	freq=2	LV=2	RV=2	is_stopword=0	unit_count=1	weight=3.51
+Inverted List(264,358,)
+LV(繁荣(1),实现(1),)
+RV(文艺(1),伟大(1),)
+No:163	word=园地	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(266,)
+LV(文艺(1),)
+RV(进行(1),)
+No:164	word=探讨	pos=vn	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(268,)
+LV(进行(1),)
+RV(。(1),)
+No:165	word=亲切	pos=a	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=0.80
+Inverted List(280,)
+LV(的(1),)
+RV(关怀(1),)
+No:166	word=关怀	pos=vn	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(281,)
+LV(亲切(1),)
+RV(表示(1),)
+No:167	word=表示	pos=v	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(282,)
+LV(关怀(1),)
+RV(感谢(1),)
+No:168	word=感谢	pos=v	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(283,)
+LV(表示(1),)
+RV(，(1),)
+No:169	word=十	pos=m	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=0.16
+Inverted List(288,)
+LV(的(1),)
+RV(八大(1),)
+No:170	word=八大	pos=nz	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(289,)
+LV(十(1),)
+RV(以来(1),)
+No:171	word=以来	pos=f	freq=1	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(290,)
+LV()
+RV()
+No:172	word=治国理政	pos=nr	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=0.85
+Inverted List(292,)
+LV(党(1),)
+RV(的(1),)
+No:173	word=新	pos=a	freq=2	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(294,296,)
+LV()
+RV()
+No:174	word=举措	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(295,)
+LV(新(1),)
+RV(新(1),)
+No:175	word=局面	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(297,)
+LV(新(1),)
+RV(高度(1),)
+No:176	word=高度	pos=d	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=0.64
+Inverted List(298,)
+LV(局面(1),)
+RV(赞誉(1),)
+No:177	word=赞誉	pos=v	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(299,)
+LV(高度(1),)
+RV(，(1),)
+No:178	word=政府	pos=n	freq=2	LV=2	RV=2	is_stopword=0	unit_count=1	weight=3.51
+Inverted List(304,492,)
+LV(、(1),和(1),)
+RV(和(1),重视(1),)
+No:179	word=提升	pos=v	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(311,)
+LV(、(1),)
+RV(国家(1),)
+No:180	word=软	pos=a	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=0.27
+Inverted List(314,)
+LV(文化(1),)
+RV(实力(1),)
+No:181	word=实力	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(315,)
+LV(软(1),)
+RV(等(1),)
+No:182	word=部署	pos=vn	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(317,)
+LV(等(1),)
+RV(深表(1),)
+No:183	word=深表	pos=v	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(318,)
+LV(部署(1),)
+RV(赞同(1),)
+No:184	word=赞同	pos=v	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(319,)
+LV(深表(1),)
+RV(，(1),)
+No:185	word=一致	pos=ad	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=0.80
+Inverted List(321,)
+LV(，(1),)
+RV(认为(1),)
+No:186	word=认为	pos=v	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(322,)
+LV(一致(1),)
+RV(文化(1),)
+No:187	word=赶上	pos=v	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(325,)
+LV(工作者(1),)
+RV(了(1),)
+No:188	word=了	pos=ule	freq=1	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(326,)
+LV()
+RV()
+No:189	word=好	pos=a	freq=3	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(327,424,429,)
+LV()
+RV()
+No:190	word=时代	pos=n	freq=2	LV=2	RV=2	is_stopword=0	unit_count=1	weight=3.51
+Inverted List(328,434,)
+LV(好(1),反映(1),)
+RV(，(1),进步(1),)
+No:191	word=展示	pos=v	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(332,)
+LV(发展(1),)
+RV(出(1),)
+No:192	word=出	pos=vf	freq=1	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(333,)
+LV()
+RV()
+No:193	word=更加	pos=d	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=0.64
+Inverted List(334,)
+LV(出(1),)
+RV(美好(1),)
+No:194	word=美好	pos=a	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=0.80
+Inverted List(335,)
+LV(更加(1),)
+RV(的(1),)
+No:195	word=指出	pos=v	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(340,)
+LV(刘云山(1),)
+RV(，(1),)
+No:196	word=国运	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(342,)
+LV(，(1),)
+RV(兴(1),)
+No:197	word=兴	pos=v	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=0.53
+Inverted List(343,)
+LV(国运(1),)
+RV(、(1),)
+No:198	word=文运兴	pos=nr	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=0.73
+Inverted List(345,)
+LV(、(1),)
+RV(，(1),)
+No:199	word=是	pos=vshi	freq=1	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(348,)
+LV()
+RV()
+No:200	word=生存	pos=vn	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(350,)
+LV(民族(1),)
+RV(和(1),)
+No:201	word=重要	pos=a	freq=3	LV=2	RV=3	is_stopword=0	unit_count=1	weight=1.90
+Inverted List(354,383,403,)
+LV(工作者(1),的(2),)
+RV(力量(1),责任(1),讲话(1),)
+No:202	word=实现	pos=v	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(357,)
+LV(，(1),)
+RV(中华民族(1),)
+No:203	word=伟大	pos=a	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=0.80
+Inverted List(359,)
+LV(中华民族(1),)
+RV(复兴(1),)
+No:204	word=复兴	pos=vn	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(360,)
+LV(伟大(1),)
+RV(的(1),)
+No:205	word=梦	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=0.53
+Inverted List(363,)
+LV(中国(1),)
+RV(需要(1),)
+No:206	word=需要	pos=v	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(364,)
+LV(梦(1),)
+RV(文化(1),)
+No:207	word=兴盛	pos=an	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=0.80
+Inverted List(368,)
+LV(繁荣(1),)
+RV(。(1),)
+No:208	word=推进	pos=vi	freq=1	LV=1	RV=2	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(370,)
+LV(。(1),)
+RV(“(1),四(1),)
+No:209	word=“	pos=wyz	freq=1	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(371,)
+LV()
+RV()
+No:210	word=四	pos=m	freq=2	LV=2	RV=1	is_stopword=0	unit_count=1	weight=0.24
+Inverted List(372,)
+LV(推进(1),“(1),)
+RV(个(1),)
+No:211	word=个	pos=q	freq=1	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(373,)
+LV()
+RV()
+No:212	word=全面	pos=a	freq=1	LV=1	RV=2	is_stopword=0	unit_count=1	weight=0.80
+Inverted List(374,)
+LV(个(1),)
+RV(”(1),战略(1),)
+No:213	word=”	pos=wyy	freq=1	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(375,)
+LV()
+RV()
+No:214	word=战略	pos=n	freq=2	LV=2	RV=1	is_stopword=0	unit_count=1	weight=2.43
+Inverted List(376,)
+LV(全面(1),”(1),)
+RV(布局(1),)
+No:215	word=布局	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(377,)
+LV(战略(1),)
+RV(，(1),)
+No:216	word=赋予	pos=v	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(379,)
+LV(，(1),)
+RV(当代(1),)
+No:217	word=当代	pos=t	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=0.28
+Inverted List(380,)
+LV(赋予(1),)
+RV(文化(1),)
+No:218	word=责任	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(384,)
+LV(重要(1),)
+RV(和(1),)
+No:219	word=使命	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(386,)
+LV(和(1),)
+RV(。(1),)
+No:220	word=深入	pos=ad	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=0.80
+Inverted List(392,)
+LV(工作者(1),)
+RV(学习(1),)
+No:221	word=学习	pos=v	freq=2	LV=2	RV=2	is_stopword=0	unit_count=1	weight=3.51
+Inverted List(393,442,)
+LV(，(1),深入(1),)
+RV(老一辈(1),贯彻(1),)
+No:222	word=贯彻	pos=v	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(394,)
+LV(学习(1),)
+RV(习近平(1),)
+No:223	word=座谈会	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(400,)
+LV(工作(1),)
+RV(上(1),)
+No:224	word=上	pos=f	freq=1	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(401,)
+LV()
+RV()
+No:225	word=讲话	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(404,)
+LV(重要(1),)
+RV(精神(1),)
+No:226	word=精神	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(405,)
+LV(讲话(1),)
+RV(，(1),)
+No:227	word=增强	pos=v	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(407,)
+LV(，(1),)
+RV(文化(1),)
+No:228	word=自信	pos=an	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=0.80
+Inverted List(409,)
+LV(文化(1),)
+RV(，(1),)
+No:229	word=坚守	pos=v	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(411,)
+LV(，(1),)
+RV(文化(1),)
+No:230	word=追求	pos=vn	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(413,)
+LV(文化(1),)
+RV(，(1),)
+No:231	word=树立	pos=v	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(415,)
+LV(，(1),)
+RV(正确(1),)
+No:232	word=正确	pos=ad	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=0.80
+Inverted List(416,)
+LV(树立(1),)
+RV(创作(1),)
+No:233	word=导向	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(418,)
+LV(创作(1),)
+RV(，(1),)
+No:234	word=用	pos=p	freq=1	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(420,)
+LV()
+RV()
+No:235	word=更	pos=d	freq=2	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(421,423,)
+LV()
+RV()
+No:236	word=多	pos=a	freq=2	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(422,509,)
+LV()
+RV()
+No:237	word=作品	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(427,)
+LV(文化(1),)
+RV(讲(1),)
+No:238	word=讲	pos=v	freq=1	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(428,)
+LV()
+RV()
+No:239	word=故事	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(431,)
+LV(中国(1),)
+RV(、(1),)
+No:240	word=反映	pos=v	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(433,)
+LV(、(1),)
+RV(时代(1),)
+No:241	word=进步	pos=vn	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(435,)
+LV(时代(1),)
+RV(。(1),)
+No:242	word=要	pos=v	freq=2	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(437,496,)
+LV()
+RV()
+No:243	word=强化	pos=v	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(438,)
+LV(要(1),)
+RV(精品(1),)
+No:244	word=精品	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(439,)
+LV(强化(1),)
+RV(意识(1),)
+No:245	word=意识	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(440,)
+LV(精品(1),)
+RV(，(1),)
+No:246	word=优良	pos=z	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=0.48
+Inverted List(447,)
+LV(的(1),)
+RV(传统(1),)
+No:247	word=努力	pos=ad	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=0.80
+Inverted List(450,)
+LV(，(1),)
+RV(在(1),)
+No:248	word=扎根	pos=v	freq=2	LV=2	RV=2	is_stopword=0	unit_count=1	weight=3.51
+Inverted List(452,455,)
+LV(、(1),在(1),)
+RV(生活(1),群众(1),)
+No:249	word=群众	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(456,)
+LV(扎根(1),)
+RV(中(1),)
+No:250	word=中	pos=f	freq=2	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(457,470,)
+LV()
+RV()
+No:251	word=丰富	pos=a	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=0.80
+Inverted List(458,)
+LV(中(1),)
+RV(生活(1),)
+No:252	word=积淀	pos=vn	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(460,)
+LV(生活(1),)
+RV(，(1),)
+No:253	word=实践	pos=vn	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(465,)
+LV(艺术(1),)
+RV(、(1),)
+No:254	word=积极	pos=ad	freq=2	LV=2	RV=2	is_stopword=0	unit_count=1	weight=1.76
+Inverted List(467,486,)
+LV(、(1),作出(1),)
+RV(贡献(1),探索(1),)
+No:255	word=创新	pos=vi	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(469,)
+LV(探索(1),)
+RV(中(1),)
+No:256	word=表现力	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(473,)
+LV(文艺(1),)
+RV(，(1),)
+No:257	word=推动	pos=v	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(476,)
+LV(为(1),)
+RV(文化(1),)
+No:258	word=社会主义	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(482,)
+LV(建设(1),)
+RV(文化(1),)
+No:259	word=强国	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(484,)
+LV(文化(1),)
+RV(作出(1),)
+No:260	word=各级	pos=r	freq=1	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(489,)
+LV()
+RV()
+No:261	word=党委	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(490,)
+LV(各级(1),)
+RV(、(1),)
+No:262	word=有关	pos=vn	freq=2	LV=2	RV=2	is_stopword=0	unit_count=1	weight=3.51
+Inverted List(494,550,)
+LV(和(1),作协(1),)
+RV(部门(1),负责(1),)
+No:263	word=部门	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(495,)
+LV(有关(1),)
+RV(要(1),)
+No:264	word=关心	pos=v	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(501,)
+LV(、(1),)
+RV(文化(1),)
+No:265	word=引导	pos=v	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(507,)
+LV(扶持(1),)
+RV(、(1),)
+No:266	word=办	pos=v	freq=1	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(510,)
+LV()
+RV()
+No:267	word=实事	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(511,)
+LV(办(1),)
+RV(好事(1),)
+No:268	word=好事	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(512,)
+LV(实事(1),)
+RV(，(1),)
+No:269	word=施展	pos=v	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(517,)
+LV(工作者(1),)
+RV(才华(1),)
+No:270	word=才华	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(518,)
+LV(施展(1),)
+RV(创造(1),)
+No:271	word=创造	pos=v	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(519,)
+LV(才华(1),)
+RV(良好(1),)
+No:272	word=良好	pos=a	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=0.80
+Inverted List(520,)
+LV(创造(1),)
+RV(条件(1),)
+No:273	word=条件	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(521,)
+LV(良好(1),)
+RV(。(1),)
+No:274	word=中宣部	pos=n	freq=2	LV=2	RV=2	is_stopword=0	unit_count=1	weight=3.51
+Inverted List(528,535,)
+LV(、(1),。(1),)
+RV(、(1),四川(1),)
+No:275	word=四川	pos=ns	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.47
+Inverted List(529,)
+LV(中宣部(1),)
+RV(部长(1),)
+No:276	word=部长	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(530,)
+LV(四川(1),)
+RV(刘奇葆(1),)
+No:277	word=刘奇葆	pos=nr	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=0.64
+Inverted List(531,)
+LV(部长(1),)
+RV(陪同(1),)
+No:278	word=陪同	pos=v	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(532,)
+LV(刘奇葆(1),)
+RV(看望(1),)
+No:279	word=教育部	pos=nt	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=0.50
+Inverted List(537,)
+LV(、(1),)
+RV(、(1),)
+No:280	word=文化部	pos=nt	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=0.38
+Inverted List(539,)
+LV(、(1),)
+RV(、(1),)
+No:281	word=广电	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(543,)
+LV(出版(1),)
+RV(总局(1),)
+No:282	word=总局	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(544,)
+LV(广电(1),)
+RV(、(1),)
+No:283	word=负责	pos=vn	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(551,)
+LV(有关(1),)
+RV(同志(1),)
+No:284	word=同志	pos=n	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(552,)
+LV(负责(1),)
+RV(参加(1),)
+No:285	word=参加	pos=v	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(553,)
+LV(同志(1),)
+RV(看望(1),)
+No:286	word=活动	pos=vn	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.60
+Inverted List(555,)
+LV(看望(1),)
+RV(。(1),)
+No:287	word=《	pos=wkz	freq=1	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(559,)
+LV()
+RV()
+No:288	word=人民日报	pos=gnqg	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=0.48
+Inverted List(561,)
+LV(末##末(1),)
+RV(末##末(1),)
+No:289	word=》	pos=wky	freq=1	LV=0	RV=0	is_stopword=1	unit_count=1	weight=-1.00
+Inverted List(563,)
+LV()
+RV()
+No:290	word=2015年	pos=t	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=4.40
+Inverted List(566,)
+LV(末##末(1),)
+RV(02月(1),)
+No:291	word=02月	pos=t	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=2.40
+Inverted List(567,)
+LV(2015年(1),)
+RV(11日(1),)
+No:292	word=11日	pos=t	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=1.65
+Inverted List(568,)
+LV(02月(1),)
+RV(末##末(1),)
+No:293	word=01	pos=m	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=0.64
+Inverted List(570,)
+LV(末##末(1),)
+RV(末##末(1),)
+No:294	word=版	pos=vg	freq=1	LV=1	RV=1	is_stopword=0	unit_count=1	weight=0.53
+Inverted List(572,)
+LV(末##末(1),)
+RV(）(1),)
+No:295	word=广大文化	pos=n_new	freq=2	LV=2	RV=1	is_stopword=0	unit_count=2	weight=-1.00
+Inverted List(35,389,)
+LV(向(1),希望(1),)
+RV(工作者(2),)
+No:296	word=传统文化	pos=n_new	freq=2	LV=1	RV=2	is_stopword=0	unit_count=2	weight=-1.00
+Inverted List(134,308,)
+LV(优秀(2),)
+RV(、(1),贡献(1),)
+No:297	word=文化工作者	pos=n_new	freq=6	LV=5	RV=6	is_stopword=0	unit_count=2	weight=14.91
+Inverted List(36,323,381,390,444,515,)
+LV(广大(2),为(1),老一辈(1),认为(1),当代(1),)
+RV(致以(1),的(1),赶上(1),重要(1),深入(1),施展(1),)
+No:298	word=陈先达	pos=n_new	freq=3	LV=3	RV=3	is_stopword=0	unit_count=2	weight=10.36
+Inverted List(57,63,85,)
+LV(，(1),专家(1),询问(1),)
+RV(家中(1),的(1),就(1),)
+No:299	word=优秀传统	pos=n_new	freq=2	LV=2	RV=1	is_stopword=0	unit_count=2	weight=-1.00
+Inverted List(133,307,)
+LV(弘扬(1),中华(1),)
+RV(文化(2),)
+No:300	word=中国作协	pos=n_new	freq=2	LV=2	RV=2	is_stopword=0	unit_count=2	weight=7.76
+Inverted List(225,548,)
+LV(、(1),在(1),)
+RV(名誉(1),有关(1),)
+No:301	word=广大文化工作者	pos=n_new	freq=2	LV=2	RV=2	is_stopword=0	unit_count=3	weight=13.80
+Inverted List(35,389,)
+LV(向(1),希望(1),)
+RV(致以(1),深入(1),)
+No:302	word=优秀传统文化	pos=n_new	freq=2	LV=2	RV=2	is_stopword=0	unit_count=3	weight=13.80
+Inverted List(133,307,)
+LV(弘扬(1),中华(1),)
+RV(、(1),贡献(1),)
+)
+ Sentence Information:
+No:1	line新华社北京2月10日电 （记者隋笑飞）中共中央政治局常委、中央书记处书记刘云山2月8日和9日，代表习近平总书记和党中央看望文化界知名人士，向他们致以诚挚问候，向广大文化工作者致以新春祝福。
+weight=0.00
+wordid_list_size=0()
+No:2	line　　刘云山首先来到中国人民大学教授、着名马克思主义哲学专家陈先达家中，关切询问陈先达的生活和工作情况，对他为党的思想理论建设作出的贡献给予肯定，陈先达就深化马克思主义理论研究、加强哲学社会科学教材教学工作提出建议。
+weight=0.00
+wordid_list_size=0()
+No:3	line在中国文联荣誉委员、着名书法家沈鹏家中，刘云山悉心了解书法艺术传承发展情况，希望老一辈书法家继续发挥传帮带作用、为弘扬中华优秀传统文化贡献力量。
+weight=0.00
+wordid_list_size=0()
+No:4	line在看望中国舞协名誉主席、着名芭蕾舞表演艺术家白淑湘时，刘云山赞赏她为芭蕾舞民族化进行的探索，白淑湘建议加强青年艺术人才培养、加大对代表国家水准的艺术门类扶持力度。
+weight=0.00
+wordid_list_size=0()
+No:5	line在看望原新闻出版署署长、着名出版家宋木文时，刘云山与他就出版业现状和前景进行交流，认真听取他关于提高出版质量、加强版权保护、重视社会效益等建议。
+weight=0.00
+wordid_list_size=0()
+No:6	line在中国作协名誉委员、着名少数民族作家玛拉沁夫家中，刘云山赞扬玛拉沁夫为民族文学发展做出的成绩，并与他就加强少数民族文艺创作、繁荣中华民族文艺园地进行探讨。
+weight=0.00
+wordid_list_size=0()
+No:7	line　　文化界知名人士对习近平总书记和党中央的亲切关怀表示感谢，对党的十八大以来党治国理政的新举措新局面高度赞誉，对党和政府重视弘扬优秀传统文化、提升国家文化软实力等部署深表赞同，一致认为文化工作者赶上了好时代，文化发展展示出更加美好的前景。
+weight=0.00
+wordid_list_size=0()
+No:8	line刘云山指出，国运兴、文运兴，文化是民族生存和发展的重要力量，实现中华民族伟大复兴的中国梦需要文化的繁荣兴盛。
+weight=0.00
+wordid_list_size=0()
+No:9	line推进“四个全面”战略布局，赋予当代文化工作者重要责任和使命。
+weight=0.00
+wordid_list_size=0()
+No:10	line希望广大文化工作者深入学习贯彻习近平总书记在文艺工作座谈会上的重要讲话精神，增强文化自信，坚守文化追求，树立正确创作导向，用更多更好的文化作品讲好中国故事、反映时代进步。
+weight=0.00
+wordid_list_size=0()
+No:11	line要强化精品意识，学习老一辈文化工作者的优良传统，努力在扎根生活、扎根群众中丰富生活积淀，在深化艺术实践、积极探索创新中提高文艺表现力，为推动文化繁荣发展、建设社会主义文化强国作出积极贡献。
+weight=0.00
+wordid_list_size=0()
+No:12	line各级党委、政府和有关部门要重视文化建设、关心文化人才，加强扶持引导、多办实事好事，为文化工作者施展才华创造良好条件。
+weight=0.00
+wordid_list_size=0()
+No:13	line　　中共中央政治局委员、中宣部四川部长刘奇葆陪同看望。
+weight=0.00
+wordid_list_size=0()
+No:14	line中宣部、教育部、文化部、新闻出版广电总局、中国文联、中国作协有关负责同志参加看望活动。
+weight=0.00
+wordid_list_size=0()
+No:15	line　　《 人民日报 》（ 2015年02月11日 01 版）
+weight=0.00
+wordid_list_size=0()
