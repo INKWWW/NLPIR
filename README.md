@@ -7,7 +7,7 @@
 
 #环境：Mac下虚拟机Win10系统64位； JAVA SE8；
 
-#测试文件在‘test1’文件夹中   具体路径： NLPIR/SentimentAnalysis/src/test1/Test.java
+#测试文件在‘test1’文件夹中   【具体路径： NLPIR/SentimentAnalysis/src/test1/Test.java】
 
 --------------------------------------------------------------------------------
 ### 本项目仓库所含文件为所有源代码以及运行所需的东西，fork或download到本地后配置好环境即可运行。
